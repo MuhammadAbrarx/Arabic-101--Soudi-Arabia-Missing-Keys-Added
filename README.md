@@ -4,3 +4,5 @@ Assalamualaikum, Brothers &amp; Sisters. This project is an attempt to fix &amp;
 Instructions :
 >Download The arab-sfs folder 
 >Click on setup.exe nothing else & Allow if admin rights requested
+
+>Keyboard Layout Pics Folder Contains the Layout Screenshots
